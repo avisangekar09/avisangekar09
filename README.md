@@ -1,34 +1,24 @@
-# Avinash Sangekar
-My Personal Repository <br>
-About Me <br>
-Hey there! 👋 I'm Avinash, a 3rd year studying B.Tech at JSPM's Rajarshi Shahu College of Engineering Pune(SPPU). My passion lies in Programming, and I'm constantly exploring ways to innovate and make a positive impact through engineering.
-<br>
-🎓 Currently pursuing a degree in Bachelor of Technology<br>
-💼 Actively seeking internships and opportunities to apply my skills<br>
-💡 Interested in Java , Data structure and Algorithm, and Object oriented programming<br>
-Skills
-<br>
-Here are some of the skills I've developed and technologies I'm familiar with:<br>
+<h1 align="center">Hi 👋, I'm Avinash</h1>
+<h3 align="center">A passionate Coder from India</h3>
 
-Programming Languages: Java, C++ , Python , C, HTML, CSS <br>
-Software Tools: VScode, MySQL, Github, Intellij IDEA<br>
-<br>
-Coding Platform <br>
-Codechef : https://www.codechef.com/users/avisangekar09 <br>
-Hackerrank : https://www.hackerrank.com/profile/avisangekar09 <br>
-Leetcode : https://leetcode.com/u/avisangekar/ <br>
-GFG : https://www.geeksforgeeks.org/user/avisangekar09/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user <br>
-Codestudio : <br>
+- 🌱 I’m currently learning **DSA and Web Developement**
 
- 
-Interests<br>
-Aside from engineering, I enjoy:<br>
+- 📫 How to reach me **avisangekar09@gmail.com**
 
-Reading<br>
-Writing<br>
-Playing<br>
-Connect with Me<br>
-Feel free to connect with me on:<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/avinash-sangekar-1947251a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avinash-sangekar-1947251a7" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/avisangekar09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/avisangekar09" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/avisangekar09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/avisangekar09" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/avisangekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/avisangekar/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/avisangekar09/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/avisangekar09/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+</p>
 
-LinkedIn: www.linkedin.com/in/avinash-sangekar-1947251a7<br>
-GitHub: https://github.com/avisangekar09
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avisangekar09&show_icons=true&locale=en&layout=compact" alt="avisangekar09" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avisangekar09&show_icons=true&locale=en" alt="avisangekar09" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avisangekar09&" alt="avisangekar09" /></p>
